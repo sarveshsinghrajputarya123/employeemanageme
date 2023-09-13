@@ -1,0 +1,6 @@
+com\employee\management\EmployeeApplication.class
+com\employee\management\controller\UserController.class
+com\employee\management\model\Employee.class
+com\employee\management\repository\Employeerepo.class
+com\employee\management\service\Employeeservice.class
+com\employee\management\serviceImp\Employeeserviceimp.class
